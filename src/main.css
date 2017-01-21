@@ -8,3 +8,35 @@
   width: 250px;
 
 }
+
+body{
+  background: url("http://localhost:3000/pink-and-white-chevron.jpg")
+}
+
+.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color:red;
+}
+
+.Maryellen{
+  color: #008080;
+}
+
+.Saige{
+  color: orange;
+}
+
+.Mckenna{
+  color:purple;
+}
+
+.Kit{
+  color:green;
+}
